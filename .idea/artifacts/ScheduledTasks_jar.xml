@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ScheduledTasks:jar">
+    <output-path>$USER_HOME$/AppData/Roaming/VisualSpigot/minecraft_servers/izgaF5Ghgg/plugins</output-path>
+    <root id="archive" name="ScheduledTasks.jar">
+      <element id="module-output" name="ScheduledTasks" />
+    </root>
+  </artifact>
+</component>

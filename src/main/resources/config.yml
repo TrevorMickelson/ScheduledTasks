@@ -1,0 +1,28 @@
+# # # # # # # # # # # # # #
+# Scheduled ConfigTask Example  #
+# # # # # # # # # # # # # #
+
+TimeZone: "America/Chicago"
+
+ScheduledTasks:
+  reboot:
+    times:
+      - "05:10 PM DAILY"
+      - "03:10 AM SATURDAY"
+    prebroadcasttimes:
+      - 3600
+      - 1800
+      - 900
+      - 300
+      - 180
+      - 120
+      - 60
+      - 30
+      - 5
+      - 4
+      - 3
+      - 2
+      - 1
+    prebroadcastmessage: "&cReboot &8> &7The reboot is occurring in &6%time%"
+    execute:
+      - "restart"

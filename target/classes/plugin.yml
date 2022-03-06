@@ -1,0 +1,5 @@
+name: ScheduledTasks
+author: CodePunisher
+version: 1.0
+main: com.codepunisher.scheduledtasks.ScheduledTasks
+softdepend:  [PlaceholderAPI]
