@@ -1,5 +1,5 @@
 [maven-central]: https://img.shields.io/maven-central/v/net.dv8tion/JDA?color=blue
-[maven-central][][download]
+![maven-central][][download]
 [blah][][bleh]
 ![blebbers][][blubbers]
 
