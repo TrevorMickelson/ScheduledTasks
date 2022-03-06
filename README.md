@@ -1,5 +1,3 @@
-![](testing)
-
 # ScheduledTasks <img align="right" src="https://user-images.githubusercontent.com/70197204/156934977-17c88e14-148c-4191-8237-7d4f19ea99a1.png" height="200" width="200"> 
 There's not a single plugin that handles scheduling as easily as this one does.
 I made this for my own server, and have never looked back! This plugin is purely
