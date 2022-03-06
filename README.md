@@ -3,12 +3,12 @@ There's not a single plugin that handles scheduling as easily as this one does.
 I made this for my own server, and have never looked back! This plugin is purely
 config based. 
 
-`No commands`
-`No permissions`
-`Time zone setting`
-`PlaceholderAPI support`
-`Easy config`
-`Compatible versions`
+- `No commands`
+- `No permissions`
+- `Time zone setting`
+- `PlaceholderAPI support`
+- `Easy config`
+- `Compatible versions`
 
 
 ### Configuration
