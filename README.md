@@ -10,8 +10,6 @@ config based.
 - `Easy config`
 - `Compatible versions (1.8 -> 1.18+)`
 
-[test]
-
 ### Configuration
 ```yaml
 # # # # # # # # # # # # # #
