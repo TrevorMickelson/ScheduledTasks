@@ -1,4 +1,4 @@
-[maven-central]: https://img.shields.io/maven-central/v/net.dv8tion/JDA?color=blue
+[maven-central]: color=blue 
 ![maven-central]
 [blah][][bleh]
 ![blebbers][][blubbers]
