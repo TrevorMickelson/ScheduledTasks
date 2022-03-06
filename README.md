@@ -8,7 +8,7 @@ config based.
 - `Time zone setting`
 - `PlaceholderAPI support`
 - `Easy config`
-- `Compatible versions`
+- `Compatible versions (1.8 -> 1.18+)`
 
 [test]
 
